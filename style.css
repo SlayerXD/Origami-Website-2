@@ -1,0 +1,47 @@
+h1 {
+    color: white;
+    margin-left: 20px;
+    padding: 15px;
+}
+h2 {
+    color:black
+
+}
+.header *{
+    background-image:-webkit-image-set("Wooden-Dark-Background.jpg");
+  background-color: rgb(240, 240, 220);
+  border: solid;
+
+}
+.header2 {
+    font:200
+}
+.menu {
+    background-color:blanchedalmond
+}
+
+.grid {
+    display: flex;
+    flex-wrap: warp;
+    align-items: center;
+    justify-content: space-between;
+
+}
+body {
+    background-color:cornsilk
+}
+
+.origami {
+    background:white;
+}
+
+h2 {
+    display: flex;
+    justify-content:space-around;
+    align-items: baseline;
+}
+.item {
+    border: solid
+}
+
+
